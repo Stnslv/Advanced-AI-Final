@@ -2,4 +2,4 @@
 
 ## Uninformed Search Methods ##
 
-### - DFS ##
+### -DFS ##
