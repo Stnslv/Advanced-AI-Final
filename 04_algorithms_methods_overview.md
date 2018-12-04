@@ -1,4 +1,5 @@
-# List of all algorithms we have studied this semester: #
+# List of all algorithms we have studied this semester #
+# (Due to spending all my time trying, and failing, to figure out Q3, I did not have time left to provide descriptions): #
 
 ## Uninformed Search Methods ##
 
